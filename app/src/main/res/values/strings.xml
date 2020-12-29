@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Break the Code</string>
+    <string name="enter_input_text">Enter input text</string>
+    <string name="enter_shift_amount">Enter shift amount (1 - 25)</string>
+    <string name="caesar_cipher">Caesar Cipher</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="output">Output</string>
+    <string name="atbash_cipher">Atbash Cipher</string>
+    <string name="a1z26_cipher">A1Z26 Cipher</string>
+    <string name="note"><p><b>Note: </b> </p>
+        <p>For decryption, the input must not contain any letter and all numbers in the input must be between 1 and 26.</p>
+        <p>For encryption, the input must not contain any number.</p></string>
+    <string name="combined_cipher">Combined Cipher</string>
+    <string name="vigenere_cipher">Vigenere Cipher</string>
+    <string name="noteVigenere"><b>Note:</b> For Vigenere cipher, the keyword is compulsory and the keyword must contain letter only.</string>
+    <string name="welcome">Welcome to the secret page</string>
+    <string name="introduction">There are 3 additional ciphers that were used in the Gravity Falls series and the Journal 3, besides 5 main ciphers (Caesar, Atbash, A1Z26, Combined and Vigenere).</string>
+    <string name="link">For more information about ciphers, visit <a href="https://gravityfalls.fandom.com/wiki/List_of_cryptograms">this website</a></string>
+    <string name="binary_cipher">Binary Cipher</string>
+    <string name="note_binary"><b>Note:</b> For decryption, the input should only contain 0 and 1 and the length of the input must be a multiple of 8.</string>
+    <string name="hex_cipher">Hex Cipher</string>
+    <string name="note_hex"><b>Note:</b> For decryption, the input should only contain numbers from 0 to 9 and letter a, b, c, d, e, f and the length of the input must be a multiple of 2</string>
+    <string name="morse_cipher">Morse Cipher</string>
+    <string name="note_morse"><b>Note:</b> For decryption, the input should only contain -, ., / and space character.</string>
+</resources>
